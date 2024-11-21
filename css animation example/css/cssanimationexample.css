@@ -11,7 +11,7 @@ animation-timing-function: ease-in-out;
  }
 
 /*keyframe for the aniamation*/
-@keyframe lk{
+@keyframes lk{
       0%{
         top:0;
          left:0;
